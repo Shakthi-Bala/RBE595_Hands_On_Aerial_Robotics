@@ -1,0 +1,11 @@
+# An example environment
+# boundary xmin ymin zmin xmax ymax zmax
+# block xmin ymin zmin xmax ymax zmax r g b
+
+boundary -0.10 -0.35 -0.60 1.75 0.35 0.10
+
+# Block 1 (zmin<zmax + color)
+block 0.5610 -0.1308 -0.2799 0.5801 -0.049253477 0.13044 220 120 80
+
+# Block 2 (zmin<zmax + color)
+block 1.3419 0.0221 -0.549137 1.3668 0.105262 -0.008 80 160 220
